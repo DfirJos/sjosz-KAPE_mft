@@ -5,5 +5,5 @@ Set pipeline workers to 1, otherwise it might result in vague results. Either wi
  - pipeline.id: MFT
    pipeline.workers: 1
    path.config: "../config/0.5_MFT.conf"
-
+`
 This config was tested on Logstash 7.6.1
